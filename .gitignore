@@ -1,0 +1,9 @@
+/.idea
+/cloud/cloud.iml
+/cloud-common/cloud-common.iml
+/cloud-manage/cloud-manage.iml
+/cloud-manage/cloud-manage-admin/cloud-manage-admin.iml
+/cloud-manage/cloud-manage-admin/target
+/cloud-manage/cloud-manage-dao/cloud-manage-dao.iml
+/cloud-manage/cloud-manage-model/cloud-manage-model.iml
+/cloud-manage/cloud-manage-service/cloud-manage-service.iml
